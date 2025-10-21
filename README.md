@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Elvis
+🎮 Game Developer | 💻 Programmer | 🚀 Always building something cool
 
-<!--
-**Egaytan23/Egaytan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 Featured Projects
+- [3D Eclipse Game](https://github.com/elvisg/3d-eclipse-game) — Unity 3D combat and movement system
+- [Inventory System](https://github.com/elvisg/inventory-system) — Modular item + crafting system in Unity
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+C# • Unity • JavaScript • Node.js • React • Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+📧 you@example.com  
+🔗 [LinkedIn](https://linkedin.com/in/elvisg)
