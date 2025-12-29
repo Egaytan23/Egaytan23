@@ -5,7 +5,9 @@
 I’m always trying to level up my skills, and when I play games, I love breaking down how systems work behind the scenes. That curiosity is what keeps me excited about game development.
 
 ## 🔥 Featured Projects
-- [3D Eclipse Game](https://github.com/Egaytan23/Eclipse_engine_Return) — Unity 3D shooter (collaboration)
+<img width="961" height="682" alt="image" src="https://github.com/user-attachments/assets/cb545445-5d5e-4f70-a9d8-a7bbdb06e610" />
+
+- [3D Eclipse Game](https://github.com/Egaytan23/Eclipse_engine_Return) — Unity 3D shooter (collaboration, in development)
 • combat and movement system
 • Built a third-person movement + melee combat system using C#
 • Implemented animations, hit detection, health system, and UI
