@@ -28,7 +28,11 @@ I’m always trying to level up my skills, and when I play games, I love breakin
 • Buy door system
 • Coin system
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f6818de2-1e75-4456-a617-f55c2f5e085c" />
+
+
+
+https://github.com/user-attachments/assets/1b247900-08e4-41c5-a77d-2f58b6c21144
+
 
 -[Study_Survival](https://github.com/Egaytan23/STUDYSURVIVAL1.git) - 2D unity game
 • Particle sytem 
@@ -37,7 +41,7 @@ I’m always trying to level up my skills, and when I play games, I love breakin
 • Spawner system
 • Moving NPC 
 • Moving animation for the player
-• Special abilities for enemies that work together with basic attack
+• Special abilities for enemies that work together with the basic attack
 
 ## 🛠️ Tech Stack
 • C# • Unity • JavaScript • Git • Python
