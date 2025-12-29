@@ -27,18 +27,7 @@ I’m always trying to level up my skills, and when I play games, I love breakin
 • Buy weapon system (controlled by a button)
 • Buy door system
 • Coin system
-
-<video
-  src="https://github.com/user-attachments/assets/1b247900-08e4-41c5-a77d-2f58b6c21144"
-  style="width: 350px; height: auto;"
-  controls>
-</video>
-
-
-
-
-
-
+![output](https://github.com/user-attachments/assets/e3bd238d-87c4-4a08-a297-bd0a67965f85)
 
 
 
