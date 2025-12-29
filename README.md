@@ -28,10 +28,7 @@ I’m always trying to level up my skills, and when I play games, I love breakin
 • Buy door system
 • Coin system
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/user-attachments/assets/1b247900-08e4-41c5-a77d-2f58b6c21144" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video src="https://github.com/user-attachments/assets/1b247900-08e4-41c5-a77d-2f58b6c21144" width="640" controls></video>
 
 
 
