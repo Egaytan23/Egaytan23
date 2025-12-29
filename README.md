@@ -29,7 +29,7 @@ I’m always trying to level up my skills, and when I play games, I love breakin
 • Coin system
 
 <video src="https://github.com/user-attachments/assets/1b247900-08e4-41c5-a77d-2f58b6c21144" 
-       style="width: 320px;" 
+       style="width: 120px;" 
        controls>
 </video>
 
