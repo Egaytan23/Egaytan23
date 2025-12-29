@@ -5,7 +5,7 @@
 I’m always trying to level up my skills, and when I play games, I love breaking down how systems work behind the scenes. That curiosity is what keeps me excited about game development.
 
 ## 🔥 Featured Projects
-<img width="961" height="682" alt="image" src="https://github.com/user-attachments/assets/cb545445-5d5e-4f70-a9d8-a7bbdb06e610" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/cb545445-5d5e-4f70-a9d8-a7bbdb06e610" />
 
 - [3D Eclipse Game](https://github.com/Egaytan23/Eclipse_engine_Return) — Unity 3D shooter (collaboration, in development)
 • combat and movement system
@@ -18,7 +18,7 @@ I’m always trying to level up my skills, and when I play games, I love breakin
 • Enemy AI dedication
 • Projectile attack animation 
  
-- [Trash_collector](https://github.com/Egaytan23/TrashCollector) - 2D sprite unity game
+- [Trash_collector](https://github.com/Egaytan23/TrashCollector) - 2D unity game
 • A collecting system and drop system
 • Inventory management 
 
@@ -26,7 +26,18 @@ I’m always trying to level up my skills, and when I play games, I love breakin
 • Collection system
 • Buy weapon system (controlled by a button)
 • Buy door system
-• Coin system 
+• Coin system
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f6818de2-1e75-4456-a617-f55c2f5e085c" />
+
+-[Study_Survival](https://github.com/Egaytan23/STUDYSURVIVAL1.git) - 2D unity game
+• Particle sytem 
+• Sound system (death, attacking, background, and enemy death)
+• Healing items
+• Spawner system
+• Moving NPC 
+• Moving animation for the player
+• Special abilities for enemies that work together with basic attack
 
 ## 🛠️ Tech Stack
 • C# • Unity • JavaScript • Git • Python
