@@ -1,9 +1,7 @@
 #  Hi, I'm Elvis
 🎮 Game Developer | 💻 Programmer | 🚀 Always building something cool
 
-- About me: I’m a game programmer who loves building and learning about video games. I’ve spent a lot of time creating 2D games, and I also develop 3D games, which has helped me grow a lot as a developer.
-I’m always trying to level up my skills, and when I play games, I love breaking down how systems work behind the scenes. That curiosity is what keeps me excited about game development.
-
+- About me: I’m a game programmer passionate about building and understanding video games at a systems level. I have strong experience developing 2D games and also creating 3D projects, which has expanded my skills in gameplay systems, mechanics, and problem-solving. I’m always working to level up my abilities, and when I play games, I naturally analyze how systems work behind the scenes. That curiosity drives how I approach game development.
 ## 🔥 Featured Projects
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/cb545445-5d5e-4f70-a9d8-a7bbdb06e610" />
 
