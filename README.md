@@ -14,6 +14,9 @@
 • Built a third-person movement + melee combat system using C#
 • Implemented animations, hit detection, health system, and UI
 
+![full_length_video2](https://github.com/user-attachments/assets/3cd2c5a2-c9c2-4ada-acec-17a87c8bfd99)
+
+
 - [Socko-Game](https://github.com/Egaytan23/Socko) — 2D sprite unity game
 • Custom 2D sprite creation
 • Layout design
