@@ -3,7 +3,7 @@
 
 - About me: I’m a game programmer passionate about building and understanding video games at a systems level. I have strong experience developing 2D games and also creating 3D projects, which has expanded my skills in gameplay systems, mechanics, and problem-solving. I’m always working to level up my abilities, and when I play games, I naturally analyze how systems work behind the scenes. That curiosity drives how I approach game development.
 ## 🔥 Featured Projects
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/cb545445-5d5e-4f70-a9d8-a7bbdb06e610" />
+<img width="1670" height="881" alt="image" src="https://github.com/user-attachments/assets/f81f2d21-1d68-43b7-b186-daae349b34e8" />
 
 - [3D Eclipse Game](https://github.com/Egaytan23/Eclipse_engine_Return) — Unity 3D shooter (collaboration, in development)
 • combat and movement system
