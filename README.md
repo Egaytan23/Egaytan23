@@ -3,7 +3,11 @@
 
 - About me: I’m a game programmer passionate about building and understanding video games at a systems level. I have strong experience developing 2D games and also creating 3D projects, which has expanded my skills in gameplay systems, mechanics, and problem-solving. I’m always working to level up my abilities, and when I play games, I naturally analyze how systems work behind the scenes. That curiosity drives how I approach game development.
 ## 🔥 Featured Projects
-<img width="1670" height="881" alt="image" src="https://github.com/user-attachments/assets/f81f2d21-1d68-43b7-b186-daae349b34e8" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f81f2d21-1d68-43b7-b186-daae349b34e8" />
+
+
+![full_length_optimized](https://github.com/user-attachments/assets/a42d2a0c-36ab-4650-b81b-93e8d30a2bc8)
+
 
 - [3D Eclipse Game](https://github.com/Egaytan23/Eclipse_engine_Return) — Unity 3D shooter (collaboration, in development)
 • combat and movement system
@@ -25,9 +29,8 @@
 • Buy weapon system (controlled by a button)
 • Buy door system
 • Coin system
+
 ![output](https://github.com/user-attachments/assets/e3bd238d-87c4-4a08-a297-bd0a67965f85)
-
-
 
 -[Study_Survival](https://github.com/Egaytan23/STUDYSURVIVAL1.git) - 2D unity game
 • Particle sytem 
