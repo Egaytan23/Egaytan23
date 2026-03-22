@@ -46,9 +46,10 @@
 • Moving animation for the player
 • Special abilities for enemies that work together with the basic attack
 
-## 🛠️ Tech Stack
-• C# • Unity • JavaScript • Git • Python
-• Java • HTML • CSS
+## Tech Stack
+- Unity (C#) – gameplay systems, physics, UI
+- Git – version control and collaboration
+- Python – scripting/tools (if applicable)
 
 ## 📫 Contact
 📧 elvisgaitan23@gmail.com
