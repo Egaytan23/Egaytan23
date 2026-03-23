@@ -12,13 +12,13 @@ Game Developer specializing in Unity and gameplay systems. I build 2D and 3D gam
 - [3D Eclipse Game](https://github.com/Egaytan23/Eclipse_engine_Return) — Unity 3D third-person shooter focused on combat and gameplay systems.
   A systems-driven third-person shooter focused on combat mechanics, enemy AI, and scalable gameplay design.
 
-- Implemented third-person player movement with physics-based controls and camera alignment
-- Developed a combat system using raycasting for precise hit detection and damage application
-- Designed a wave-based enemy spawning system to scale difficulty over time
-- Built UI systems for player health, ammo tracking, and game state feedback
-- Integrated animations and state transitions for player and enemy interactions
-- Built modular and reusable gameplay systems to support scalability
-- Optimized gameplay systems for smooth performance during combat and enemy spawning
+  - Implemented third-person player movement with physics-based controls and camera alignment
+  - Developed a combat system using raycasting for precise hit detection and damage application
+  - Designed a wave-based enemy spawning system to scale difficulty over time
+  - Built UI systems for player health, ammo tracking, and game state feedback
+  - Integrated animations and state transitions for player and enemy interactions
+  - Built modular and reusable gameplay systems to support scalability
+  - Optimized gameplay systems for smooth performance during combat and enemy spawning
 
 
 ![full_length_video2](https://github.com/user-attachments/assets/3cd2c5a2-c9c2-4ada-acec-17a87c8bfd99)
@@ -37,7 +37,7 @@ Game Developer specializing in Unity and gameplay systems. I build 2D and 3D gam
   
 
 - [Reclaiming the Island](https://github.com/Egaytan23/Reclaiming-the-island) —  2D Unity game centered around progression and interaction systems.
- - Implemented currency system for player progression
+  - Implemented currency system for player progression
   - Developed interaction systems for unlocking doors and purchasing items
 
 ![output](https://github.com/user-attachments/assets/e3bd238d-87c4-4a08-a297-bd0a67965f85)
