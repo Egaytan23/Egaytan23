@@ -3,7 +3,7 @@
 🎮 Play my games: https://egaytan23.itch.io/
 ## About Me
 Game Developer specializing in Unity and gameplay systems. I build 2D and 3D games with a focus on combat systems, player mechanics, and interactive gameplay. I enjoy breaking down how games work and recreating those systems from scratch.
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f81f2d21-1d68-43b7-b186-daae349b34e8" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f81f2d21-1d68-43b7-b186-daae349b34e8" />
 
 
 ![full_length_optimized](https://github.com/user-attachments/assets/a42d2a0c-36ab-4650-b81b-93e8d30a2bc8)
@@ -47,6 +47,13 @@ Game Developer specializing in Unity and gameplay systems. I build 2D and 3D gam
   - Designed a spawning system for dynamic enemy generation
   - Developed combat and damage systems for player-enemy interactions
 
+## 🌐 Client Work
+
+- [Business Website](YOUR-LIVE-LINK-HERE) — Responsive website developed for a small business using HTML, CSS, and JavaScript.
+  - Collaborated with a client to gather requirements and design a user-friendly layout
+  - Implemented event-driven interactions using JavaScript for dynamic UI behavior
+  - Designed responsive layouts for a consistent experience across desktop and mobile devices
+  - Delivered a functional product tailored to real-world client needs
 
 ## Tech Stack
 - Unity (C#) – gameplay systems, physics, UI, raycasting
