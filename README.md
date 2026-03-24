@@ -50,6 +50,7 @@ Game Developer specializing in Unity and gameplay systems. I build 2D and 3D gam
 ## 🌐 Client Work
 
 - [Business Website](https://egaytan23.github.io/business-website/) — Responsive website developed for a small business using HTML, CSS, and JavaScript.
+  ([View code] (https://github.com/Egaytan23/business-website.git))
   - Collaborated with a client to gather requirements and design a user-friendly layout
   - Implemented event-driven interactions using JavaScript for dynamic UI behavior
   - Designed responsive layouts for a consistent experience across desktop and mobile devices
