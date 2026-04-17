@@ -47,6 +47,11 @@ Game Developer specializing in Unity and gameplay systems. I build 2D and 3D gam
   - Designed a spawning system for dynamic enemy generation
   - Developed combat and damage systems for player-enemy interactions
 
+
+- [Leaderboard API](https://github.com/Egaytan23/leaderboard-api) — RESTful backend API built with Node.js, Express, and PostgreSQL.
+  - Designed endpoints to handle score submissions and retrieve ranked leaderboard data
+  - Integrated PostgreSQL for persistent data storage and querying
+  - Implemented asynchronous request handling for efficient data processing
 ## 🌐 Client Work
 
 - [Business Website](https://egaytan23.github.io/business-website/) — Responsive website developed for a small business using HTML, CSS, and JavaScript.
