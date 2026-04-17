@@ -1,5 +1,5 @@
 # Hi, I'm Elvis
-🎮 Game Developer | 💻 Programmer | 🚀 Always building something cool
+🎮 Software Engineer | Game Engineer | 🚀 Always building something cool
 🎮 Play my games: https://egaytan23.itch.io/
 ## About Me
 Game Developer specializing in Unity and gameplay systems. I build 2D and 3D games with a focus on combat systems, player mechanics, and interactive gameplay. I enjoy breaking down how games work and recreating those systems from scratch.
