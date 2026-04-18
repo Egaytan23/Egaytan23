@@ -2,7 +2,7 @@
 🎮 Software Engineer | Game Engineer | 🚀 Always building something cool
 🎮 Play my games: https://egaytan23.itch.io/
 ## About Me
-Game Developer specializing in Unity and gameplay systems. I build 2D and 3D games with a focus on combat systems, player mechanics, and interactive gameplay. I enjoy breaking down how games work and recreating those systems from scratch.
+I’m a programmer who loves creating interactive systems, whether that’s gameplay mechanics in Unity/Godot or backend services with Node.js and SQL. I enjoy breaking down how things work, rebuilding them from scratch, and turning ideas into real, playable, or usable experiences.
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f81f2d21-1d68-43b7-b186-daae349b34e8" />
 
 
