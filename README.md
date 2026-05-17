@@ -21,9 +21,9 @@ I’m a software developer focused on building interactive systems, backend serv
   - Integrated PostgreSQL for persistent data storage and querying
   - Implemented asynchronous request handling for efficient data processing
 
-![full_length_video2](https://github.com/user-attachments/assets/3cd2c5a2-c9c2-4ada-acec-17a87c8bfd99)
 
 ## 🧩 Additional Projects
+![full_length_video2](https://github.com/user-attachments/assets/3cd2c5a2-c9c2-4ada-acec-17a87c8bfd99)
 - [Socko](https://github.com/Egaytan23/Socko) — 2D Unity game featuring enemy AI and projectile combat.
   - Created enemy AI with movement and attack logic
   - Implemented projectile system with collision handling
