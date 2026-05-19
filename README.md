@@ -6,7 +6,7 @@ I’m a software developer focused on building interactive systems, backend serv
 
 
 
-## ⭐ Featured Project: 3D Eclipse Shooter
+## ⭐ Featured Project:
 - [AI-Assisted Job Application System](https://github.com/Egaytan23/AI-Assisted-Job-Application-System.git) — Human-in-the-loop AI-assisted application support platform focused on job analysis, workflow orchestration, and backend system design.
   - Designed modular AI workflow architecture using structured prompt-driven components instead of autonomous agents
   - Developing a Node.js/Express backend API with PostgreSQL for application tracking and decision persistence
