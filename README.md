@@ -1,6 +1,6 @@
 # Hi, I'm Elvis
-🎮 Software Engineer | Systems & Interactive Application Developer
-🎮 Play my games: https://egaytan23.itch.io/
+Software Engineer | Backend & Interactive Systems Developer
+Play my games: https://egaytan23.itch.io/
 ## About Me
 I’m a software developer focused on building interactive systems, backend services, and scalable application architectures. My experience includes gameplay systems in Unity/Godot, REST APIs with Node.js and PostgreSQL, and modular software design. I enjoy breaking down complex systems, rebuilding them from scratch, and turning ideas into functional, user-focused applications.
 
@@ -14,8 +14,8 @@ I’m a software developer focused on building interactive systems, backend serv
   - Built a system around ethical constraints, including user oversight, no auto-applying, and no fabricated experience generation
   - Structured application workflows using separation of concerns and modular backend design principles
   - Focused on scalable request handling, JSON-based processing pipelines, and maintainable architecture
-  - Project is currently under active development
-
+  - currently under active development
+    
 - [Leaderboard API](https://github.com/Egaytan23/leaderboard-api) — RESTful backend API built with Node.js, Express, and PostgreSQL.
   - Designed endpoints to handle score submissions and retrieve ranked leaderboard data
   - Integrated PostgreSQL for persistent data storage and querying
@@ -52,7 +52,7 @@ I’m a software developer focused on building interactive systems, backend serv
 
 ![full_length_optimized](https://github.com/user-attachments/assets/a42d2a0c-36ab-4650-b81b-93e8d30a2bc8)
 
-  - [3D Eclipse Game](https://github.com/Egaytan23/Eclipse_engine_Return) — Unity 3D third-person shooter focused on combat and gameplay systems.
+  - [3D Real-Time Combat Systems Project](https://github.com/Egaytan23/Eclipse_engine_Return) — Unity 3D third-person shooter focused on combat and gameplay systems.
   A systems-driven third-person shooter focused on combat mechanics, enemy AI, and scalable gameplay design.
 
   - Implemented third-person player movement with physics-based controls and camera alignment
@@ -80,4 +80,4 @@ I’m a software developer focused on building interactive systems, backend serv
 
 ## 📫 Contact
 📧 elvisgaitan23@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/elvisg)
+🔗 [LinkedIn](linkedin.com/in/elvis-gaytan-661233170)
