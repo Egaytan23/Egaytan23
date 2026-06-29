@@ -49,6 +49,7 @@ Run locally:
 
 ```bash
 docker-compose up --build
+```
 
 ## System Architecture
 
