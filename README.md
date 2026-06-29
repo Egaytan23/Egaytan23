@@ -30,33 +30,11 @@ Software engineer focused on backend development, REST APIs, cloud deployment, a
 | PUT | /analyses/:id | Update recommendation |
 | DELETE | /analyses/:id | Delete an analysis |
 
-## Continuous Integration
-
-Every push to the main branch automatically:
-
-- Installs project dependencies
-- Builds the frontend
-- Verifies the application compiles successfully
-- Prevents broken code from being merged
-
-This workflow is implemented using GitHub Actions.
-
 ## Deployment
 
-Frontend
-- Render Static Site
-
-Backend
-- Render Web Service
-
-Database
-- Render PostgreSQL
-
-Containerization
-- Docker
-
-Continuous Integration
-- GitHub Actions
+- **Frontend:** Render Static Site
+- **Backend:** Render Web Service
+- **Database:** Render PostgreSQL
 
 ## System Architecture
 
