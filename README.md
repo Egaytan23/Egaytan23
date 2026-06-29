@@ -49,6 +49,7 @@ graph TD
     B -->|AI Request| C
     B -->|SQL Queries| D
 ```
+
     
 - [Leaderboard API](https://github.com/Egaytan23/leaderboard-api) — RESTful backend API built with Node.js, Express, and PostgreSQL.
   - Designed endpoints to handle score submissions and retrieve ranked leaderboard data
