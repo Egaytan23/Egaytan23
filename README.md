@@ -41,9 +41,22 @@ Every push to the main branch automatically:
 
 This workflow is implemented using GitHub Actions.
 
-## Docker
+## Deployment
 
-The backend is containerized using Docker for consistent deployment across development and production environments.
+Frontend
+- Render Static Site
+
+Backend
+- Render Web Service
+
+Database
+- Render PostgreSQL
+
+Containerization
+- Docker
+
+Continuous Integration
+- GitHub Actions
 
 ## System Architecture
 
