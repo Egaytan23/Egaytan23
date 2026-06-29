@@ -2,19 +2,34 @@
 Software Engineer | Backend & Interactive Systems Developer
 Play my games: https://egaytan23.itch.io/
 ## About Me
-I’m a software developer focused on building interactive systems, backend services, and scalable application architectures. My experience includes gameplay systems in Unity/Godot, REST APIs with Node.js and PostgreSQL, and modular software design. I enjoy breaking down complex systems, rebuilding them from scratch, and turning ideas into functional, user-focused applications.
+Software engineer focused on backend development, REST APIs, cloud deployment, and scalable application architecture. I enjoy designing modular systems, integrating AI services, and building full-stack applications using modern development workflows including Docker, CI/CD, PostgreSQL, and React.
 
 
 
 ## ⭐ Featured Project:
-- [AI-Assisted Job Application System](https://github.com/Egaytan23/ai-job-agent) — Human-in-the-loop AI-assisted application support platform focused on job analysis, workflow orchestration, and backend system design.
-  - Designed modular AI workflow architecture using structured prompt-driven components instead of autonomous agents
-  - Developing a Node.js/Express backend API with PostgreSQL for application tracking and decision persistence
-  - Implemented role-based AI processing for job analysis, resume alignment, preparation guidance, and decision support
-  - Built a system around ethical constraints, including user oversight, no auto-applying, and no fabricated experience generation
-  - Structured application workflows using separation of concerns and modular backend design principles
-  - Focused on scalable request handling, JSON-based processing pipelines, and maintainable architecture
-  - currently under active development
+- [AI-Assisted Job Application System](https://github.com/Egaytan23/ai-job-agent) — Full-stack AI-powered job analysis platform that evaluates job descriptions using OpenAI, stores analysis history in PostgreSQL, and provides an interactive React interface for reviewing results.
+  - Live Demo: https://ai-job-agent-1-pw5m.onrender.com/
+  - Built a React frontend that communicates with a deployed Express REST API
+  - Integrated OpenAI API to analyze job descriptions and generate structured hiring recommendations
+  - Designed PostgreSQL persistence for storing and retrieving analysis history
+  - Implemented full CRUD operations for job analyses
+  - Containerized the backend using Docker
+  - Configured automated CI with GitHub Actions to validate every commit
+  - Deployed frontend and backend independently on Render
+  - Designed modular backend architecture using asynchronous request handling and reusable API routes
+
+  ## API Endpoints
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| GET | / | Health check |
+| POST | /analyze | Analyze a job description |
+| GET | /analyses | Retrieve all analyses |
+| GET | /analyses/:id | Retrieve one analysis |
+| PUT | /analyses/:id | Update recommendation |
+| DELETE | /analyses/:id | Delete an analysis |
+
+
     
 - [Leaderboard API](https://github.com/Egaytan23/leaderboard-api) — RESTful backend API built with Node.js, Express, and PostgreSQL.
   - Designed endpoints to handle score submissions and retrieve ranked leaderboard data
@@ -37,7 +52,7 @@ I’m a software developer focused on building interactive systems, backend serv
   
 
 - [Reclaiming the Island](https://github.com/Egaytan23/Reclaiming-the-island) —  2D Unity game centered around progression and interaction systems.
-  - Implemented currency system for player progression
+  - Implemented a currency system for player progression
   - Developed interaction systems for unlocking doors and purchasing items
 
 ![output](https://github.com/user-attachments/assets/e3bd238d-87c4-4a08-a297-bd0a67965f85)
@@ -73,10 +88,26 @@ I’m a software developer focused on building interactive systems, backend serv
   - Delivered a functional product tailored to real-world client needs
 
 ## Tech Stack
-- C#, JavaScript, Python, SQL  
-- Node.js, Express, PostgreSQL  
-- Unity, Git, Linux, REST APIs  
-- Object-Oriented Programming, System Design, Debugging
+- JavaScript
+- React
+- Node.js
+- Express
+- PostgreSQL
+- Docker
+- GitHub Actions
+- OpenAI API
+- C#
+- Java
+- Python
+- HTML
+- CSS
+- SQL
+- Unity
+- Linux   
+- Git
+- REST APIs  
+- Object-Oriented Programming
+- System Design
 
 ## 📫 Contact
 📧 elvisgaitan23@gmail.com
