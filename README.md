@@ -12,10 +12,10 @@ Software engineer focused on backend development, REST APIs, cloud deployment, a
   - ⚙️ Backend API: https://ai-job-agent-lbgs.onrender.com
   - Built a React frontend that communicates with a deployed Express REST API
   - Integrated OpenAI API to analyze job descriptions and generate structured hiring recommendations
-  - Designed PostgreSQL persistence for storing and retrieving analysis history
+  - Integrated PostgreSQL for persistent storage and retrieval of job analysis history
   - Implemented full CRUD operations for job analyses
   - Containerized the backend using Docker
-  - Implemented a CI/CD workflow using GitHub Actions and Render to validate and deploy application updates automatically.
+  - Implemented a CI/CD workflow with GitHub Actions to automatically validate builds and Render to deploy new application updates
   - Deployed frontend and backend independently on Render
   - Designed modular backend architecture using asynchronous request handling and reusable API routes
 
@@ -30,12 +30,6 @@ Software engineer focused on backend development, REST APIs, cloud deployment, a
 | PUT | /analyses/:id | Update recommendation |
 | DELETE | /analyses/:id | Delete an analysis |
 
-## Deployment
-
-- **Frontend:** Render Static Site
-- **Backend:** Render Web Service
-- **Database:** Render PostgreSQL
-
 ## System Architecture
 
 ```mermaid
@@ -49,6 +43,12 @@ graph TD
     B -->|AI Request| C
     B -->|SQL Queries| D
 ```
+
+## Deployment
+
+- **Frontend:** Render Static Site
+- **Backend:** Render Web Service
+- **Database:** Render PostgreSQL
 
     
 - [Leaderboard API](https://github.com/Egaytan23/leaderboard-api) — RESTful backend API built with Node.js, Express, and PostgreSQL.
