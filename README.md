@@ -45,12 +45,6 @@ This workflow is implemented using GitHub Actions.
 
 The backend is containerized using Docker for consistent deployment across development and production environments.
 
-Run locally:
-
-```bash
-docker-compose up --build
-```
-
 ## System Architecture
 
 ```mermaid
