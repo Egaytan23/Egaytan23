@@ -15,7 +15,7 @@ Software engineer focused on backend development, REST APIs, cloud deployment, a
   - Designed PostgreSQL persistence for storing and retrieving analysis history
   - Implemented full CRUD operations for job analyses
   - Containerized the backend using Docker
-  - Configured automated CI with GitHub Actions to validate every commit
+  - Implemented a CI/CD workflow using GitHub Actions and Render to validate and deploy application updates automatically.
   - Deployed frontend and backend independently on Render
   - Designed modular backend architecture using asynchronous request handling and reusable API routes
 
