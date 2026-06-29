@@ -30,7 +30,19 @@ Software engineer focused on backend development, REST APIs, cloud deployment, a
 | PUT | /analyses/:id | Update recommendation |
 | DELETE | /analyses/:id | Delete an analysis |
 
+## System Architecture
 
+```mermaid
+graph TD
+    A[React Frontend]
+    B[Express API]
+    C[OpenAI API]
+    D[(PostgreSQL)]
+
+    A -->|HTTP| B
+    B -->|AI Request| C
+    B -->|SQL Queries| D
+```
     
 - [Leaderboard API](https://github.com/Egaytan23/leaderboard-api) — RESTful backend API built with Node.js, Express, and PostgreSQL.
   - Designed endpoints to handle score submissions and retrieve ranked leaderboard data
