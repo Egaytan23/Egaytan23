@@ -8,7 +8,8 @@ Software engineer focused on backend development, REST APIs, cloud deployment, a
 
 ## ⭐ Featured Project:
 - [AI-Assisted Job Application System](https://github.com/Egaytan23/ai-job-agent) — Full-stack AI-powered job analysis platform that evaluates job descriptions using OpenAI, stores analysis history in PostgreSQL, and provides an interactive React interface for reviewing results.
-  - Live Demo: https://ai-job-agent-1-pw5m.onrender.com/
+  - 🌐 Live Demo: https://ai-job-agent-1-pw5m.onrender.com/
+  - ⚙️ Backend API: https://ai-job-agent-lbgs.onrender.com
   - Built a React frontend that communicates with a deployed Express REST API
   - Integrated OpenAI API to analyze job descriptions and generate structured hiring recommendations
   - Designed PostgreSQL persistence for storing and retrieving analysis history
@@ -28,6 +29,7 @@ Software engineer focused on backend development, REST APIs, cloud deployment, a
 | GET | /analyses/:id | Retrieve one analysis |
 | PUT | /analyses/:id | Update recommendation |
 | DELETE | /analyses/:id | Delete an analysis |
+
 
 
     
